@@ -1,3 +1,1 @@
-Portfólio de Projetos de Data Science
-
-João Victor Jordão Nóbrega
+Portfólio de vídeos da Banda Odile.
