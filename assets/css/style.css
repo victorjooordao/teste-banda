@@ -10,3 +10,5 @@ cursor: pointer;}
 top: 0;left: 0;}
 
 .snippet-ytb-lazy img.yt{z-index: 1;}
+
+.container iframe{border-radius: 10px; overflow: hidden;position: relative; width: 49%;}
